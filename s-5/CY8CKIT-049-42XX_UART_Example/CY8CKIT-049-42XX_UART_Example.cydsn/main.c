@@ -18,7 +18,10 @@ int main()
     for(;;) {
 		c = UART_UartGetChar();               // get typed character
         if(c) {                               // if it's a valid character
+
 			UART_UartPutChar(c);              // echo it in the terminal window
+			UART_UartPutChar(c);              // echo it in the terminal window
+
 		}
     }
     
