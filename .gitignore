@@ -4,3 +4,9 @@
 *.cydwr
 *.elf
 *.hex
+
+*/codegentemp/*
+*/Generated_Source/*
+
+*/*/codegentemp/*
+*/*/Generated_Source/*

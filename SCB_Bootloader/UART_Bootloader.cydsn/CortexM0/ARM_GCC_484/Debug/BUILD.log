@@ -1,4 +1,4 @@
---------------- Build Started: 07/10/2015 06:35:15 Project: UART_Bootloader, Configuration: ARM GCC 4.8.4 Debug ---------------
+--------------- Build Started: 07/11/2015 10:30:03 Project: UART_Bootloader, Configuration: ARM GCC 4.8.4 Debug ---------------
 cydsfit.exe -.appdatapath "C:\Users\kbuchi\AppData\Local\Cypress Semiconductor\PSoC Creator\3.2" -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -p C:\WORKS\WS\WS_PSoC\SCB_Bootloader\UART_Bootloader.cydsn\UART_Bootloader.cyprj -d CY8C4245AXI-483 -s C:\WORKS\WS\WS_PSoC\SCB_Bootloader\UART_Bootloader.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
 Elaborating Design...
 HDL Generation ...
@@ -49,4 +49,4 @@ cyelftool.exe -P C:\WORKS\WS\WS_PSoC\SCB_Bootloader\UART_Bootloader.cydsn\Cortex
 cyelftool.exe -S C:\WORKS\WS\WS_PSoC\SCB_Bootloader\UART_Bootloader.cydsn\CortexM0\ARM_GCC_484\Debug\UART_Bootloader.elf
 Flash used: 4608 of 32768 bytes (14.1%).
 SRAM used: 1712 of 4096 bytes (41.8%). Stack: 1024 bytes. Heap: 256 bytes.
---------------- Build Succeeded: 07/10/2015 06:35:41 ---------------
+--------------- Build Succeeded: 07/11/2015 10:30:42 ---------------

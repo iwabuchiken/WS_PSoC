@@ -1,0 +1,216 @@
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/CortexM0/ARM_GCC_484/Debug/main.o : C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_0.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_0_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_1M.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_1M_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_1P.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_1P_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_2.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_2_Buffer.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_2_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_3.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_3_Buffer.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_3_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_EOC_Int.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_IRQ.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_intClock.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Bootloadable_1.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_CSHL.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_IP.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_PVT.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_SMS.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_SampleClk.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_SenseClk.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_Sns_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_TunerHelper.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Clock_1MHz.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompM_0.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompM_0_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompM_1.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompM_1_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompP_0.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompP_0_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompP_1.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompP_1_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Comp_0.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Comp_0_Int.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Comp_1.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Comp_1_Int.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CyFlash.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CyLib.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/DieTemp.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_BOOT.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_I2C.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_I2C_PVT.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_PINS.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_PVT.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_SCBCLK.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_SCB_IRQ.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_scl.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_scl_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_sda.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_sda_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Input_0_Int.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Input_1_Int.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Input_Pin_0.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Input_Pin_0_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Input_Pin_1.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Input_Pin_1_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/LPComp_Int.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Output_Pin_0.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Output_Pin_0_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Output_Pin_1.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Output_Pin_1_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_0.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_0_Int.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_0_Out.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_0_Out_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_1.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_1_Out.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_1_Out_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_2.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_2_Out.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_2_Out_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Timer.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Timer_Int.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Timer_Pin.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Timer_Pin_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_BOOT.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_PINS.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_PVT.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_rx.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_tx.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Wakeup_Pin.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Wakeup_Pin_Int.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Wakeup_Pin_aliases.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/core_cm0.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/core_cmFunc.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/core_cmInstr.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/cyPm.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/cypins.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/cytypes.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/project.h C:/WORKS/WS/WS_PSoC/test_01.cydsn/main.c 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_0.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_0_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_1M.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_1M_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_1P.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_1P_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_2.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_2_Buffer.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_2_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_3.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_3_Buffer.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_3_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_EOC_Int.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_IRQ.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/ADC_intClock.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Bootloadable_1.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_CSHL.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_IP.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_PVT.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_SMS.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_SampleClk.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_SenseClk.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_Sns_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CapSense_TunerHelper.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Clock_1MHz.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompM_0.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompM_0_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompM_1.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompM_1_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompP_0.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompP_0_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompP_1.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CompP_1_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Comp_0.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Comp_0_Int.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Comp_1.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Comp_1_Int.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/DieTemp.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_BOOT.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_I2C.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_I2C_PVT.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_PINS.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_PVT.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_SCBCLK.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_SCB_IRQ.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_scl.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_scl_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_sda.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/I2C_sda_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Input_0_Int.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Input_1_Int.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Input_Pin_0.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Input_Pin_0_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Input_Pin_1.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Input_Pin_1_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/LPComp_Int.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Output_Pin_0.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Output_Pin_0_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Output_Pin_1.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Output_Pin_1_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_0.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_0_Int.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_0_Out.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_0_Out_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_1.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_1_Out.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_1_Out_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_2.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_2_Out.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/PWM_2_Out_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Timer.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Timer_Int.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Timer_Pin.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Timer_Pin_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_BOOT.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_PINS.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_PVT.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_rx.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_tx.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Wakeup_Pin.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Wakeup_Pin_Int.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/Wakeup_Pin_aliases.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/core_cmFunc.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/core_cmInstr.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/Generated_Source/PSoC4/project.h : 
+
+C:/WORKS/WS/WS_PSoC/test_01.cydsn/main.c : 
+
