@@ -13,11 +13,10 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="test_01-000\test_01\Generated_Source">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="test_01-000">
 <ExpandedNodeIds>
 <v>test_01-000</v>
 <v>test_01-000\test_01</v>
-<v>test_01-000\test_01\TopDesign</v>
 <v>test_01-000\test_01\test_01.cydwr</v>
 <v>test_01-000\test_01\Header Files</v>
 <v>test_01-000\test_01\resources</v>
@@ -25,6 +24,7 @@
 <v>test_01-000\test_01\resources\UART_Bootloader.hex</v>
 <v>test_01-000\test_01\Source Files</v>
 <v>test_01-000\test_01\Source Files\main.c</v>
+<v>test_01-000\test_01\Generated_Source</v>
 <v>test_01-000\test_01\Generated_Source\PSoC4</v>
 <v>test_01-000\test_01\Generated_Source\PSoC4\ADC</v>
 <v>test_01-000\test_01\Generated_Source\PSoC4\ADC\ADC.c</v>
@@ -294,7 +294,6 @@
 <VisibleNodeIds>
 <v>test_01-000</v>
 <v>test_01-000\test_01</v>
-<v>test_01-000\test_01\TopDesign</v>
 <v>test_01-000\test_01\test_01.cydwr</v>
 <v>test_01-000\test_01\Header Files</v>
 <v>test_01-000\test_01\resources</v>
@@ -303,6 +302,23 @@
 <v>test_01-000\test_01\Source Files</v>
 <v>test_01-000\test_01\Source Files\main.c</v>
 <v>test_01-000\test_01\Generated_Source</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC\ADC.c</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC\ADC.h</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC\ADC_INT.c</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC\ADC_PM.c</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC_0</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC_0\ADC_0.c</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC_0\ADC_0.h</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC_0\ADC_0_aliases.h</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC_1M</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC_1M\ADC_1M.c</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC_1M\ADC_1M.h</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC_1M\ADC_1M_aliases.h</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC_1P</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC_1P\ADC_1P.c</v>
+<v>test_01-000\test_01\Generated_Source\PSoC4\ADC_1P\ADC_1P.h</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -518,6 +534,7 @@
 <Unloaded />
 <OpenDocs>
 <name v=".\main.c" />
+<name v=".\TopDesign\TopDesign.cysch" />
 </OpenDocs>
 <config v="" />
 <AutoUpdate v="true" />
