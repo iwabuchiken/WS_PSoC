@@ -7,7 +7,13 @@ volatile uint16_t compare_val = 0;
 int main()
 {
     PWM_Start();                                  // start the PWM peripheral
-	
+
+
+    // wait for SW1 being pushed
+//    UART_Start();
+
+//    while(SW1_Read());
+
     for(;;) {
 		if(compare_val > 11000) { inc_flag = 0; } // set increment flag to false
 		if(compare_val < 1000) { inc_flag = 1; }  // set increment flag to true

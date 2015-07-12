@@ -13,10 +13,9 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4">
 <ExpandedNodeIds>
 <v>CY8CKIT-049-42XX_UART_Example</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example</v>
 <v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\TopDesign</v>
 <v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example.cydwr</v>
 <v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Header Files</v>
@@ -92,31 +91,6 @@
 <VisibleNodeIds>
 <v>CY8CKIT-049-42XX_UART_Example</v>
 <v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\TopDesign</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example.cydwr</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Header Files</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Source Files</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Source Files\main.c</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\Bootloadable_1</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\Bootloadable_1\Bootloadable_1.c</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\Bootloadable_1\Bootloadable_1.h</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot\cm0gcc.ld</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot\Cm0Iar.icf</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot\Cm0RealView.scat</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot\Cm0Start.c</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot\core_cm0.h</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot\core_cm0_psoc4.h</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot\core_cmFunc.h</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot\core_cmInstr.h</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot\CyBootAsmGnu.s</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot\CyBootAsmIar.s</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot\CyBootAsmRv.s</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot\CyFlash.c</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot\CyFlash.h</v>
-<v>CY8CKIT-049-42XX_UART_Example\CY8CKIT-049-42XX_UART_Example\Generated_Source\PSoC4\cy_boot\CyLib.c</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
