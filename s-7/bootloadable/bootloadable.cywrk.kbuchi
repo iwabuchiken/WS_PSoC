@@ -527,31 +527,6 @@
 <VisibleNodeIds>
 <v>bootloadable</v>
 <v>bootloadable\bootloadable</v>
-<v>bootloadable\bootloadable\CortexM0</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_0.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_1M.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_1P.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_2.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_2_Buffer.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_2_Buffer_PM.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_3.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_3_Buffer.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_3_Buffer_PM.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_EOC_Int.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_INT.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_intClock.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_IRQ.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\ADC_PM.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\Bootloadable_1.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\CapSense.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\CapSense_CSHL.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\CapSense_INT.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\CapSense_PM.lst</v>
-<v>bootloadable\bootloadable\CortexM0\ARM_GCC_484\Debug\Listing Files\CapSense_SampleClk.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
