@@ -20,10 +20,10 @@ int main()
     for(;;)
     {
         /* Place your application code here. */
-        LED_Write( ! LED_Read());
+        LED_Write( SW1_Read() );
         
         //CyDelay( 500 );
-        CyDelay( 1000 );
+        //CyDelay( 1000 );
     }
 }
 
