@@ -605,7 +605,12 @@
 </userData>
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
-<OpenDocs />
+<OpenDocs>
+<name v="..\LED_onoff.cydsn\TopDesign\TopDesign.cysch" />
+<name v="..\LED_onoff.cydsn\LED_onoff.cydwr" />
+<name v="..\LED_onoff.cydsn\main.c" />
+<name v="..\LED_onoff.cydsn\Generated_Source\PSoC4\LED.h" />
+</OpenDocs>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
