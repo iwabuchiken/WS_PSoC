@@ -1,4 +1,4 @@
-Loading plugins phase: Elapsed time ==> 2s.262ms
+Loading plugins phase: Elapsed time ==> 2s.963ms
 Initializing data phase: Elapsed time ==> 0s.000ms
 <CYPRESSTAG name="CyDsfit arguments...">
 cydsfit arguments: -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -p C:\WORKS\WS\WS_PSoC\s-10.cydsn\s-10.cyprj -d CY8C4245AXI-483 -s C:\WORKS\WS\WS_PSoC\s-10.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE</CYPRESSTAG>
@@ -7,10 +7,10 @@ ADD: pft.M0111: information: One or more rows of flash have been configured to b
  * C:\WORKS\WS\WS_PSoC\s-10.cydsn\s-10.cydwr (Chip Protection)
 
 </CYPRESSTAG>
-Elaboration phase: Elapsed time ==> 0s.925ms
+Elaboration phase: Elapsed time ==> 1s.844ms
 <CYPRESSTAG name="HDL generation results...">
 </CYPRESSTAG>
-HDL generation phase: Elapsed time ==> 0s.077ms
+HDL generation phase: Elapsed time ==> 0s.290ms
 <CYPRESSTAG name="Synthesis results...">
 
      | | | | | | |
@@ -44,7 +44,7 @@ Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\WORKS\WS\WS
 ======================================================================
 
 vlogfe V6.3 IR 41:  Verilog parser
-Wed Jul 15 08:02:36 2015
+Wed Jul 15 08:18:48 2015
 
 
 ======================================================================
@@ -54,8 +54,10 @@ Options  :    -yv2 -q10 s-10.v
 ======================================================================
 
 vpp V6.3 IR 41:  Verilog Pre-Processor
-Wed Jul 15 08:02:36 2015
+Wed Jul 15 08:18:48 2015
 
+Flattening file 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\warp\..\psoc\content\cyprimitives\CyPrimitives.cylib\cy_tff_v1_0\cy_tff_v1_0.v'
+Flattening file 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\warp\..\psoc\content\cyprimitives\CyPrimitives.cylib\cy_constant_v1_0\cy_constant_v1_0.v'
 
 vpp:  No errors.
 
@@ -83,7 +85,7 @@ Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\WORKS\WS\WS
 ======================================================================
 
 tovif V6.3 IR 41:  High-level synthesis
-Wed Jul 15 08:02:36 2015
+Wed Jul 15 08:18:49 2015
 
 Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\warp\lib\common\std.vhd'.
 Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\warp\lib\common\cypress.vhd'.
@@ -95,7 +97,9 @@ Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\warp\lib\c
 Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\warp\lib\common\stdlogic\mod_mthv.vif'.
 Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\warp\lib\common\stdlogic\mod_genv.vif'.
 Linking 'C:\WORKS\WS\WS_PSoC\s-10.cydsn\codegentemp\s-10.ctl'.
+Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\psoc\content\cyprimitives\CyPrimitives.cylib\cy_tff_v1_0\cy_tff_v1_0.v'.
 Linking 'C:\WORKS\WS\WS_PSoC\s-10.cydsn\codegentemp\s-10.v'.
+Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\psoc\content\cyprimitives\CyPrimitives.cylib\cy_constant_v1_0\cy_constant_v1_0.v'.
 
 tovif:  No errors.
 
@@ -107,7 +111,7 @@ Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\WORKS\WS\WS
 ======================================================================
 
 topld V6.3 IR 41:  Synthesis and optimization
-Wed Jul 15 08:02:36 2015
+Wed Jul 15 08:18:49 2015
 
 Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\warp\lib\common\std.vhd'.
 Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\warp\lib\common\cypress.vhd'.
@@ -119,7 +123,9 @@ Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\warp\lib\c
 Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\warp\lib\common\stdlogic\mod_mthv.vif'.
 Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\warp\lib\common\stdlogic\mod_genv.vif'.
 Linking 'C:\WORKS\WS\WS_PSoC\s-10.cydsn\codegentemp\s-10.ctl'.
+Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\psoc\content\cyprimitives\CyPrimitives.cylib\cy_tff_v1_0\cy_tff_v1_0.v'.
 Linking 'C:\WORKS\WS\WS_PSoC\s-10.cydsn\codegentemp\s-10.v'.
+Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\psoc\content\cyprimitives\CyPrimitives.cylib\cy_constant_v1_0\cy_constant_v1_0.v'.
 Linking 'C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\warp\lib\lcpsoc3\stdlogic\cpsoc3.vif'.
 
 ----------------------------------------------------------
@@ -133,11 +139,14 @@ Alias Detection
 ------------------------------------------------------
 Aliasing one to tmpOE__LED_net_0
 Aliasing tmpOE__SW1_net_0 to tmpOE__LED_net_0
-Removing Lhs of wire one[7] = tmpOE__LED_net_0[1]
-Removing Lhs of wire tmpOE__SW1_net_0[10] = tmpOE__LED_net_0[1]
+Aliasing Net_15 to tmpOE__LED_net_0
+Removing Rhs of wire Net_18[2] = cy_tff_1[24]
+Removing Lhs of wire one[8] = tmpOE__LED_net_0[1]
+Removing Lhs of wire tmpOE__SW1_net_0[11] = tmpOE__LED_net_0[1]
+Removing Lhs of wire Net_15[25] = tmpOE__LED_net_0[1]
 
 ------------------------------------------------------
-Aliased 0 equations, 2 wires.
+Aliased 0 equations, 4 wires.
 ------------------------------------------------------
 
 ----------------------------------------------------------
@@ -146,14 +155,34 @@ Circuit simplification
 
 Substituting virtuals - pass 1:
 
+Note:  Expanding virtual equation for 'tmpOE__LED_net_0' (cost = 0):
+tmpOE__LED_net_0 <=  ('1') ;
+
+
+Substituting virtuals - pass 2:
+
 
 ----------------------------------------------------------
 Circuit simplification results:
 
-	Expanded 0 signals.
+	Expanded 1 signals.
 	Turned 0 signals into soft nodes.
 	Maximum default expansion cost was set at 3.
 ----------------------------------------------------------
+
+------------------------------------------------------
+Alias Detection
+------------------------------------------------------
+
+------------------------------------------------------
+Aliased 0 equations, 0 wires.
+------------------------------------------------------
+
+Last attempt to remove unused logic - pass 1:
+
+
+Last attempt to remove unused logic - pass 2:
+
 
 topld:  No errors.
 
@@ -161,21 +190,29 @@ CYPRESS_DIR    : C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\wa
 Warp Program   : C:\WORKS\Programs\PSoC_Creator\PSoC Creator\3.2\PSoC_Creator\warp\bin/warp.exe
 Warp Arguments : -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\WORKS\WS\WS_PSoC\s-10.cydsn\s-10.cyprj -dcpsoc3 s-10.v -verilog
 </CYPRESSTAG>
-Warp synthesis phase: Elapsed time ==> 0s.745ms
+Warp synthesis phase: Elapsed time ==> 1s.027ms
 <CYPRESSTAG name="Fitter results...">
 <CYPRESSTAG name="Fitter startup details...">
-cyp3fit: V3.2.0.724, Family: PSoC3, Started at: Wednesday, 15 July 2015 08:02:36
+cyp3fit: V3.2.0.724, Family: PSoC3, Started at: Wednesday, 15 July 2015 08:18:49
 Options: -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\WORKS\WS\WS_PSoC\s-10.cydsn\s-10.cyprj -d CY8C4245AXI-483 s-10.v -verilog
 </CYPRESSTAG>
 <CYPRESSTAG name="Design parsing">
-Design parsing phase: Elapsed time ==> 0s.057ms
+Design parsing phase: Elapsed time ==> 0s.107ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Tech mapping">
 <CYPRESSTAG name="Initial Mapping" icon="FILE_RPT_TECHM">
 <CYPRESSTAG name="Global Clock Selection" icon="FILE_RPT_TECHM">
 <CYPRESSTAG name="UDB Clock/Enable Remapping Results">
 </CYPRESSTAG>
+<CYPRESSTAG name="UDB Routed Clock Assignment">
+    Routed Clock: SW1(0):iocell.fb
+        Effective Clock: HFCLK
+        Enable Signal: SW1(0):iocell.fb
 </CYPRESSTAG>
+</CYPRESSTAG>
+
+Removing unused cells resulting from optimization
+Done removing unused cells.
 <CYPRESSTAG name="Duplicate Macrocell detection">
 </CYPRESSTAG>
 </CYPRESSTAG>
@@ -225,7 +262,8 @@ Design Equations
             IO Voltage: 0
         PORT MAP (
             pa_out => LED(0)__PA ,
-            input => Net_2 ,
+            input => Net_18 ,
+            annotation => Net_6 ,
             pad => LED(0)_PAD );
         Properties:
         {
@@ -264,13 +302,30 @@ Design Equations
             IO Voltage: 0
         PORT MAP (
             pa_out => SW1(0)__PA ,
-            fb => Net_2 ,
+            fb => Net_16 ,
+            annotation => Net_13 ,
             pad => SW1(0)_PAD );
         Properties:
         {
         }
     </CYPRESSTAG>
     <CYPRESSTAG name="Macrocell listing" icon="FILE_RPT_EQUATION">
+
+    ------------------------------------------------------------
+    Macrocell listing
+    ------------------------------------------------------------
+
+    MacroCell: Name=Net_18, Mode=(T-Register)
+        Total # of inputs        : 0
+        Total # of product terms : 0
+        List of special equations: 
+            Clock  = (ClockBlock_HFCLK) => Global
+            Clock Enable: PosEdge(Net_16)
+        Main Equation            : 0 pterms
+        !(
+            0
+        );
+        Output = Net_18 (fanout=1)
     </CYPRESSTAG>
     <CYPRESSTAG name="Datapath listing">
     </CYPRESSTAG>
@@ -299,7 +354,7 @@ Resource Type                 : Used : Free :  Max :  % Used
 ============================================================
 Digital clock dividers        :    0 :    4 :    4 :   0.00%
 Pins                          :    4 :   32 :   36 :  11.11%
-UDB Macrocells                :    0 :   32 :   32 :   0.00%
+UDB Macrocells                :    1 :   31 :   32 :   3.13%
 UDB Unique Pterms             :    0 :   64 :   64 :   0.00%
 UDB Datapath Cells            :    0 :    4 :    4 :   0.00%
 UDB Status Cells              :    0 :    4 :    4 :   0.00%
@@ -317,20 +372,20 @@ TCPWM Blocks                  :    0 :    4 :    4 :   0.00%
 Serial Communication Blocks   :    0 :    2 :    2 :   0.00%
 Segment LCD Blocks            :    0 :    1 :    1 :   0.00%
 </CYPRESSTAG>
-Technology Mapping: Elapsed time ==> 0s.609ms
-Tech mapping phase: Elapsed time ==> 0s.668ms
+Technology Mapping: Elapsed time ==> 1s.035ms
+Tech mapping phase: Elapsed time ==> 1s.311ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Analog Placement">
 <CYPRESSTAG name="Analog Placement">
-Elapsed time ==> 0.1197859s
+Elapsed time ==> 0.0516605s
 </CYPRESSTAG>
-Analog Placement phase: Elapsed time ==> 0s.201ms
+Analog Placement phase: Elapsed time ==> 0s.174ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Analog Routing">
 <CYPRESSTAG name="Analog Routing">
-Route success=True, Iterations=1 Elapsed=0.0045278 secs
+Route success=True, Iterations=1 Elapsed=0.0022852 secs
 </CYPRESSTAG>
-Analog Routing phase: Elapsed time ==> 0s.007ms
+Analog Routing phase: Elapsed time ==> 0s.020ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Analog Code Generation">
 ============ Analog Final Answer Routes ============
@@ -341,32 +396,48 @@ Map of item to net {
 }
 Mux Info {
 }
-Analog Code Generation phase: Elapsed time ==> 0s.177ms
+Analog Code Generation phase: Elapsed time ==> 0s.314ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Digital Placement">
 <CYPRESSTAG name="Detailed placement messages">
-I2659: No Constrained paths were found. The placer will run in non-timing driven mode.
-I2076: Total run-time: 0.5 sec.
+I2076: Total run-time: 2.0 sec.
 
 </CYPRESSTAG>
 <CYPRESSTAG name="PLD Packing">
-<CYPRESSTAG name="PLD Packing Summary">
-No PLDs were packed.
+<CYPRESSTAG name="PLD Packing Summary" expanded>
+
+------------------------------------------------------------
+PLD Packing Summary
+------------------------------------------------------------
+            Resource Type : Used : Free :  Max :  % Used
+    ====================================================
+                     PLDs :    1 :    7 :    8 :  12.50%
+
+<CYPRESSTAG name="PLD Statistics">
+
+        PLD Resource Type :     Average/LAB
+    =======================================
+                   Inputs :            0.00
+                   Pterms :            0.00
+               Macrocells :            1.00
 </CYPRESSTAG>
-PLD Packing: Elapsed time ==> 0s.001ms
+<CYPRESSTAG name="Packed PLD Contents">
+Packed PLD Contents not displayed at this verbose level.</CYPRESSTAG>
+</CYPRESSTAG>
+PLD Packing: Elapsed time ==> 0s.057ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Partitioning">
 <CYPRESSTAG name="Initial Partitioning Summary">
 Initial Partitioning Summary not displayed at this verbose level.</CYPRESSTAG>
 <CYPRESSTAG name="Final Partitioning Summary">
 Final Partitioning Summary not displayed at this verbose level.</CYPRESSTAG>
-Partitioning: Elapsed time ==> 0s.030ms
+Partitioning: Elapsed time ==> 0s.182ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Simulated Annealing">
-Annealing: Elapsed time ==> 0s.002ms
+Annealing: Elapsed time ==> 0s.030ms
 <CYPRESSTAG name="Simulated Annealing Results">
 The seed used for moves was 114161200.
-Inital cost was 4, final cost is 4 (0.00% improvement).</CYPRESSTAG>
+Inital cost was 9, final cost is 9 (0.00% improvement).</CYPRESSTAG>
 </CYPRESSTAG>
 <CYPRESSTAG name="Final Placement Summary">
 
@@ -376,7 +447,7 @@ Final Placement Summary
 
        Resource Type :      Count : Avg Inputs : Avg Outputs
     ========================================================
-                 UDB :          0 :       0.00 :       0.00
+                 UDB :          1 :       0.00 :       1.00
 <CYPRESSTAG name="Final Placement Details">
 <CYPRESSTAG name="Component Details">
 
@@ -386,7 +457,29 @@ Component Placement Details
 UDB [UDB=(0,0)] is empty.
 UDB [UDB=(0,1)] is empty.
 UDB [UDB=(1,0)] is empty.
-UDB [UDB=(1,1)] is empty.
+UDB [UDB=(1,1)] contents:
+LAB@[UDB=(1,1)][LB=0] #macrocells=1, #inputs=0, #pterms=0
+{
+    [McSlotId=0]:     MacroCell: Name=Net_18, Mode=(T-Register) @ [UDB=(1,1)][LB=0][MC=0]
+        Total # of inputs        : 0
+        Total # of product terms : 0
+        List of special equations: 
+            Clock  = (ClockBlock_HFCLK) => Global
+            Clock Enable: PosEdge(Net_16)
+        Main Equation            : 0 pterms
+        !(
+            0
+        );
+        Output = Net_18 (fanout=1)
+        Properties               : 
+        {
+        }
+
+    [McSlotId=1]: (empty)
+    [McSlotId=2]: (empty)
+    [McSlotId=3]: (empty)
+}
+
 Intr hod @ [IntrHod=(0)]: empty
 Port 0 contains the following IO cells:
 [IoId=7]: 
@@ -423,7 +516,8 @@ Pin : Name = SW1(0)
         IO Voltage: 0
     PORT MAP (
         pa_out => SW1(0)__PA ,
-        fb => Net_2 ,
+        fb => Net_16 ,
+        annotation => Net_13 ,
         pad => SW1(0)_PAD );
     Properties:
     {
@@ -464,7 +558,8 @@ Pin : Name = LED(0)
         IO Voltage: 0
     PORT MAP (
         pa_out => LED(0)__PA ,
-        input => Net_2 ,
+        input => Net_18 ,
+        annotation => Net_6 ,
         pad => LED(0)_PAD );
     Properties:
     {
@@ -521,39 +616,39 @@ Port Configuration report
      |     |       | Interrupt |                  |        | 
 Port | Pin | Fixed |      Type |       Drive Mode |   Name | Connections
 -----+-----+-------+-----------+------------------+--------+------------
-   0 |   7 |     * |      NONE |     HI_Z_DIGITAL | SW1(0) | FB(Net_2)
+   0 |   7 |     * |      NONE |     HI_Z_DIGITAL | SW1(0) | FB(Net_16)
 -----+-----+-------+-----------+------------------+--------+------------
-   1 |   6 |     * |      NONE |         CMOS_OUT | LED(0) | In(Net_2)
+   1 |   6 |     * |      NONE |         CMOS_OUT | LED(0) | In(Net_18)
 ------------------------------------------------------------------------
 </CYPRESSTAG>
 </CYPRESSTAG>
 </CYPRESSTAG>
-Digital component placer commit/Report: Elapsed time ==> 0s.002ms
-Digital Placement phase: Elapsed time ==> 1s.077ms
+Digital component placer commit/Report: Elapsed time ==> 0s.013ms
+Digital Placement phase: Elapsed time ==> 5s.770ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Digital Routing">
 Routing successful.
-Digital Routing phase: Elapsed time ==> 0s.676ms
+Digital Routing phase: Elapsed time ==> 0s.942ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Bitstream and API generation">
-Bitstream and API generation phase: Elapsed time ==> 0s.559ms
+Bitstream and API generation phase: Elapsed time ==> 0s.548ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Bitstream verification">
-Bitstream verification phase: Elapsed time ==> 0s.099ms
+Bitstream verification phase: Elapsed time ==> 0s.112ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Static timing analysis">
 Timing report is in s-10_timing.html.
-Static timing analysis phase: Elapsed time ==> 0s.293ms
+Static timing analysis phase: Elapsed time ==> 0s.349ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Data reporting">
 Data reporting phase: Elapsed time ==> 0s.000ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Database update...">
-Design database save phase: Elapsed time ==> 0s.220ms
+Design database save phase: Elapsed time ==> 0s.274ms
 </CYPRESSTAG>
-cydsfit: Elapsed time ==> 4s.096ms
+cydsfit: Elapsed time ==> 10s.032ms
 </CYPRESSTAG>
-Fitter phase: Elapsed time ==> 4s.147ms
-API generation phase: Elapsed time ==> 10s.522ms
-Dependency generation phase: Elapsed time ==> 0s.058ms
+Fitter phase: Elapsed time ==> 10s.199ms
+API generation phase: Elapsed time ==> 17s.802ms
+Dependency generation phase: Elapsed time ==> 0s.034ms
 Cleanup phase: Elapsed time ==> 0s.002ms
